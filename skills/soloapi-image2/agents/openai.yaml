@@ -1,0 +1,6 @@
+interface:
+  display_name: "SoloAPI Image2"
+  short_description: "通过 SoloAPI 生成、编辑与参考 GPT Image 2 图片"
+  default_prompt: "使用 $soloapi-image2 根据我的要求生成或编辑一张图片。"
+policy:
+  allow_implicit_invocation: false
