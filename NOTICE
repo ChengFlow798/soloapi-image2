@@ -1,0 +1,9 @@
+SoloAPI Image2 is based on the workflow and concepts from:
+https://github.com/fengfengzhidao/codex-image2-skill
+
+The upstream project is licensed under the MIT License and is copyright
+(c) 2026 fengfengzhidao. Its license is reproduced in LICENSE.
+
+This local SoloAPI version changes the configuration namespace, default API
+endpoint, billing safeguards, retry behavior, command surface, validation,
+tests, packaging, and documentation for the SoloAPI deployment.
